@@ -1,4 +1,1 @@
-foo
-bar
-baz
-hoo
+This is a reminder for GIT.
